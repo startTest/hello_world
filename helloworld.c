@@ -6,5 +6,6 @@ int main(int argc, char **argv[])
     int i = 0;
     scanf("%d", &i);
     printf("i = %d\n", i);
+    //add from "testfromtest1" branch
     return 0;
 }
